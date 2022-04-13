@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+html,
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #3944F7;
+    color: white;
+}
+#mycanvas {
+    background-color: lightgray;
+    border-radius: 10px;
+}
